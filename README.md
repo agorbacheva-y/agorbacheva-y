@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm new to coding and excited to learn about this world🌱
+<br>
 Studying from 🇸🇪
 
 <!--
